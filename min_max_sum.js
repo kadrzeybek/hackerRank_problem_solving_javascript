@@ -11,5 +11,5 @@ function miniMaxSum(arr) {
 }
 
 //test
-let arr = [89,16,45,7,15]
-miniMaxSum(arr) //83 165
+let arr = [89,16,45,7,16]
+miniMaxSum(arr) //83 166
