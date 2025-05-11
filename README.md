@@ -9,3 +9,5 @@ You can find the list of solved problems below.
 * A very Big Sum
 * Compare The Triplets
 * Diagonal Difference
+* Plus Minus
+* Staircase
