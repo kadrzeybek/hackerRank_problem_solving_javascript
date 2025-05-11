@@ -11,3 +11,8 @@ You can find the list of solved problems below.
 * Diagonal Difference
 * Plus Minus
 * Staircase
+* Mini-Max Sum
+* Birthday Cake Candles
+* Time Conversion
++ 10
+* Grading Students
