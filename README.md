@@ -14,5 +14,6 @@ You can find the list of solved problems below.
 * Mini-Max Sum
 * Birthday Cake Candles
 * Time Conversion
-+ 10
++10
 * Grading Students
+* Apple and Orange
