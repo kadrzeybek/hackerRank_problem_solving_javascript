@@ -4,7 +4,7 @@ This repository contains my solutions to HackerRank Algorithm problems using Jav
 
 You can find the list of solved problems below.
 ## List of Solutions
-### 0-10
+### 0-10
 * Solve me First
 * Simple Array Sum
 * A very Big Sum
