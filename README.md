@@ -3,7 +3,8 @@
 This repository contains my solutions to HackerRank Algorithm problems using JavaScript.
 
 You can find the list of solved problems below.
-### List of Solutions
+## List of Solutions
+### 0-10
 * Solve me First
 * Simple Array Sum
 * A very Big Sum
@@ -14,6 +15,6 @@ You can find the list of solved problems below.
 * Mini-Max Sum
 * Birthday Cake Candles
 * Time Conversion
-## 10
+### 10-20
 * Grading Students
 * Apple and Orange
