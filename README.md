@@ -18,3 +18,5 @@ You can find the list of solved problems below.
 ### 10-20
 * Grading Students
 * Apple and Orange
+* Number Line Jumps
+* Between Two Sets
